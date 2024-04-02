@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur Sant'Anna</h1>
 <h3 align="center">A computer engineering student at SENAI CIMATEC, currently in the 7th period. I really love software development, and my main experience is in the field of web development, where I have previously interned as a full stack developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthur-santanna" alt="arthur-santanna" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthur-santanna&label=Profile%20views&color=0e75b6&style=flat" alt="arthur-santanna" /> </p>
 
 - 🌱 I’m currently learning **Python and UX/UI in a Google course**
 
@@ -18,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur-santanna&show_icons=true&locale=en&layout=compact" alt="arthur-santanna" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-santanna&show_icons=true&locale=en" alt="arthur-santanna" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-santanna&" alt="arthur-santanna" /></p>
